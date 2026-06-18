@@ -17,7 +17,7 @@
 
 I am an **AI Engineer and Product Manager** who builds, ships, and scales production-ready AI SaaS platforms **independently** — owning every layer from database architecture to UI design, payment orchestration, and user acquisition.
 
-In the last 12 months, I have independently architected, built, and shipped **5 production-grade AI platforms** serving **1,000+ active users**. I do not just write code — I own the complete product lifecycle: market discovery, system design, full-stack engineering, AI integration, and go-to-market execution.
+In the last 12 months, I have independently architected, built, and shipped **6 production-grade AI platforms** serving **1,000+ active users**. I do not just write code — I own the complete product lifecycle: market discovery, system design, full-stack engineering, AI integration, and go-to-market execution.
 
 My core strength is **multi-agent AI orchestration** — I have built stateful agentic systems, RAG pipelines, and structured LLM output engines using Gemini 2.5 Flash, Claude, and GPT across real, revenue-generating products.
 
