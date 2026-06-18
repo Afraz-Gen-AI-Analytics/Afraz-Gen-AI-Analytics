@@ -80,6 +80,17 @@ My execution speed comes from an **AI-native workflow**: I use agentic IDEs (Cur
 
 ---
 
+### 🎥 [PitchPage](https://pitchpage.pro) — B2B Video Sales Enablement
+> Architected a zero-friction B2B sales enablement platform for personalized micro-sites. Replaced low-converting cold emails and naked URLs with instant, high-trust closing environments.
+
+- **Viral Flywheel:** Free pages show "Powered by PitchPage" badge → Sales reps send pitches to prospects → Prospects discover PitchPage organically
+- **Revenue Model:** Free + Pro Tier (custom brand colors, white-labeling, Stripe payment links)
+- **Database:** Supabase Postgres with RLS ensuring strict multi-tenant data isolation
+- **UX:** Live split-screen editor with interactive mockup preview, instant Loom/YouTube embeds, native Calendly/Cal.com widget integration
+- **Tech:** Next.js 16, React 19, Tailwind 4, Supabase, Framer Motion, Server Actions
+
+---
+
 ### 📝 [VectBlog](https://mmafraz.vect.pro/work/vectblog) — LLM-First SEO Engine
 > 69 MDX articles driving 2,500+ monthly visitors with a smart deep-linking system that funnels readers directly into VectAI's specific tools.
 
@@ -129,6 +140,7 @@ Testing          Playwright (learning) · Acceptance Criteria Ownership
 | OpenClaw | Next.js 16 | Supabase | BYOK (Claude/GPT/Gemini) | $29/mo flat | Live |
 | IncidentPost | Astro 5 + TS | Supabase | Gemini 2.5 Flash | $199/incident | Live |
 | BioBiz | Next.js 16 + Tailwind 4 | Supabase | None | Free + $9/mo Pro | Active Dev |
+| PitchPage | Next.js 16 + Tailwind 4 | Supabase | None | Free + Pro Tier | Live |
 | VectBlog | React Router v7 | Static | None | Organic funnel | 2.5k/mo |
 
 ---
@@ -141,11 +153,11 @@ I am actively seeking **remote-only** opportunities globally. I bring the full-s
 
 | Role | Why I Fit |
 |---|---|
-| **AI Engineer** | Built 5 production AI systems with multi-agent orchestration, RAG pipelines, and structured LLM output at scale |
+| **AI Engineer** | Built 6 production AI systems with multi-agent orchestration, RAG pipelines, and structured LLM output at scale |
 | **AI Product Manager / Owner** | Defined roadmaps, wrote acceptance criteria as tests, owned demos, shipped end-to-end with zero hand-offs |
 | **Founding AI Engineer** | Ideal first AI hire — I can prototype, architect, build, and ship a full product independently |
 | **Full-Stack AI Architect** | Designed scalable systems across Next.js, Supabase, Firebase, Gemini, Claude, and LemonSqueezy |
-| **Product Engineer (AI)** | Bridged product strategy and engineering execution across 5 shipped SaaS products |
+| **Product Engineer (AI)** | Bridged product strategy and engineering execution across 6 shipped SaaS products |
 
 **Non-negotiables:**
 - ✅ Remote only (open to any timezone)
@@ -169,3 +181,4 @@ If you are building something ambitious with AI and need someone who can think i
 <div align="center">
   <sub>Built with an AI-native workflow · Cursor + Antigravity · Gemini + Claude · Shipped fast, shipped right</sub>
 </div>
+
