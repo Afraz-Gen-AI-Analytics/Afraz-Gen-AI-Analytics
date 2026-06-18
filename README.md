@@ -139,7 +139,7 @@ Testing          Playwright (learning) · Acceptance Criteria Ownership
 | VectAI | React 19 + Vite + TS | Firebase | Gemini + Imagen + Veo | $49/mo Pro | 1,000+ users |
 | OpenClaw | Next.js 16 | Supabase | BYOK (Claude/GPT/Gemini) | $29/mo flat | Live |
 | IncidentPost | Astro 5 + TS | Supabase | Gemini 2.5 Flash | $199/incident | Live |
-| BioBiz | Next.js 16 + Tailwind 4 | Supabase | None | Free + $9/mo Pro | Active Dev |
+| BioBiz | Next.js 16 + Tailwind 4 | Supabase | None | Free + $9/mo Pro | Live |
 | PitchPage | Next.js 16 + Tailwind 4 | Supabase | None | Free + Pro Tier | Live |
 | VectBlog | React Router v7 | Static | None | Organic funnel | 2.5k/mo |
 
